@@ -42,7 +42,7 @@
             <img src="/img/main1.jpg" class="d-block w-100" alt="main01">
             <div class="container">
               <div class="carousel-caption text-start">
-                <h1>IT 전문 교육기관</h1>
+                <h1>4조</h1>
                 <p>정규 교육과정, 국비지원 과정, 기업 교육</p>
               </div>
             </div>
